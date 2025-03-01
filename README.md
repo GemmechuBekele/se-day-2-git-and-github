@@ -51,11 +51,11 @@ It contributes to effective collaboration by providing clarity, reducing onboard
 5) Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 Commits are snapshots of changes made to a repository, allowing you to track and manage different versions of your project over time.
-Steps to make your first commit:
-Stage changes : Use git add <file> to stage specific files or git add . for all changes.
-Commit changes : Use git commit -m "commit message" to save the changes with a descriptive message.
-Push to GitHub : Use git push origin <branch> to upload the commit to the remote repository.
-Commits help by providing a history of changes, enabling rollback to previous versions, and facilitating collaboration by clearly documenting updates.
+- Steps to make your first commit:
+	1 Stage changes : Use git add <file> to stage specific files or git add . for all changes.
+	2 Commit changes : Use git commit -m "commit message" to save the changes with a descriptive message.
+	3 Push to GitHub : Use git push origin <branch> to upload the commit to the remote repository.
+- Commits help by providing a history of changes, enabling rollback to previous versions, and facilitating collaboration by clearly documenting updates.
 
 
 6) How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
