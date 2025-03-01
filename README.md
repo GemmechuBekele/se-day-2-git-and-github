@@ -10,7 +10,7 @@ and code reviews. It also enhances project
 integrity by maintaining a complete history of changes, enabling accountability, and preventing data loss through backups and branching strategies.
 
 		
-2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+  2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 
   To set up a new repository on GitHub:
  - Sign in to GitHub and click the "+" icon, then select "New repository."Name the repository (choose a clear, descriptive name).
@@ -29,7 +29,8 @@ integrity by maintaining a complete history of changes, enabling accountability,
 - Usage examples : How to use the project or run the code.
  - Contributing guidelines : How others can contribute (if applicable).
  - License information : Legal terms for using the project.
-   ...It contributes to effective collaboration by providing clarity, reducing onboarding time, and ensuring consistent understanding among team members and users.
+   
+It contributes to effective collaboration by providing clarity, reducing onboarding time, and ensuring consistent understanding among team members and users.
 
 
 4) Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
