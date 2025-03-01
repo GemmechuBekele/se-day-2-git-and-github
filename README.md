@@ -111,7 +111,7 @@ Issues and project boards on GitHub are essential for tracking bugs, managing ta
 4. Neglecting READMEs/issues : Lack of documentation or task tracking causes confusion.
 	- Solution : Maintain an updated README and use issues/boards for task management.
 ##### Best practices :
-Regularly commit small, logical changes.
-Use .gitignore to exclude unnecessary files.
-Collaborate through pull requests and code reviews.
+	- Regularly commit small, logical changes.
+	- Use .gitignore to exclude unnecessary files.
+	- Collaborate through pull requests and code reviews.
 
