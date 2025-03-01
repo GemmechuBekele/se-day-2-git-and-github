@@ -39,13 +39,13 @@ It contributes to effective collaboration by providing clarity, reducing onboard
 
 - Public Repository :
 	- Access : Anyone can view and clone the repository.
-  	-- Advantages : Encourages open-source collaboration, increases visibility, and allows community contributions.
-  -- Disadvantages : Code is exposed, which may not be ideal for proprietary or sensitive projects.
+  	- Advantages : Encourages open-source collaboration, increases visibility, and allows community contributions.
+  	- Disadvantages : Code is exposed, which may not be ideal for proprietary or sensitive projects.
 - Private Repository :
-Access : Restricted to specific collaborators only.
-Advantages : Protects sensitive or proprietary code, ensures controlled access, and maintains privacy.
-Disadvantages : Limits external contributions and community engagement.
-In collaborative projects, public repos are better for open collaboration, while private repos suit projects requiring confidentiality or restricted access.
+	- Access : Restricted to specific collaborators only.
+	- Advantages : Protects sensitive or proprietary code, ensures controlled access, and maintains privacy.
+	- Disadvantages : Limits external contributions and community engagement.
+- In collaborative projects, public repos are better for open collaboration, while private repos suit projects requiring confidentiality or restricted access.
 
 
 5) Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
