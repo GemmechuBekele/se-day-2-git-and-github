@@ -29,8 +29,8 @@
 - Installation instructions : How to set up the project locally.
 - Usage examples : How to use the project or run the code.
  - Contributing guidelines : How others can contribute (if applicable).
- -  - License information : Legal terms for using the project.
-  It contributes to effective collaboration by providing clarity, reducing onboarding time, and ensuring consistent understanding among team members and users.
+ - License information : Legal terms for using the project.
+  --It contributes to effective collaboration by providing clarity, reducing onboarding time, and ensuring consistent understanding among team members and users.
 
 
 4) Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
