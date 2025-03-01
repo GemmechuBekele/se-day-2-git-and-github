@@ -61,11 +61,11 @@ Commits are snapshots of changes made to a repository, allowing you to track and
 6) How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 Branching in Git allows developers to work on different versions of a project simultaneously without affecting the main codebase. It is crucial for collaborative development as it isolates features, bug fixes, or experiments.
-Process :
-Create a branch : Use git branch <branch-name> or git checkout -b <branch-name> to create and switch to a new branch.
-Work on the branch : Make changes and commit them (git add, git commit).
-Merge the branch : Switch to the main branch (git checkout main) and merge (git merge <branch-name>) to integrate changes.
-Branching prevents conflicts, supports parallel development, and ensures stability by keeping the main branch clean until changes are tested.
+- Process :
+	1) Create a branch : Use git branch <branch-name> or git checkout -b <branch-name> to create and switch to a new branch.
+	2) Work on the branch : Make changes and commit them (git add, git commit).
+	3) Merge the branch : Switch to the main branch (git checkout main) and merge (git merge <branch-name>) to integrate changes.
+- Branching prevents conflicts, supports parallel development, and ensures stability by keeping the main branch clean until changes are tested.
 
 
 7) Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
