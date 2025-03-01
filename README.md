@@ -45,7 +45,8 @@ It contributes to effective collaboration by providing clarity, reducing onboard
 	- Access : Restricted to specific collaborators only.
 	- Advantages : Protects sensitive or proprietary code, ensures controlled access, and maintains privacy.
 	- Disadvantages : Limits external contributions and community engagement.
-- In collaborative projects, public repos are better for open collaboration, while private repos suit projects requiring confidentiality or restricted access.
+   
+In collaborative projects, public repos are better for open collaboration, while private repos suit projects requiring confidentiality or restricted access.
 
 
  ##### 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
@@ -65,7 +66,8 @@ Branching in Git allows developers to work on different versions of a project si
 	1) Create a branch : Use git branch <branch-name> or git checkout -b <branch-name> to create and switch to a new branch.
 	2) Work on the branch : Make changes and commit them (git add, git commit).
 	3) Merge the branch : Switch to the main branch (git checkout main) and merge (git merge <branch-name>) to integrate changes.
-- Branching prevents conflicts, supports parallel development, and ensures stability by keeping the main branch clean until changes are tested.
+  
+Branching prevents conflicts, supports parallel development, and ensures stability by keeping the main branch clean until changes are tested.
 
 
  ##### 7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
@@ -75,7 +77,8 @@ Pull requests (PRs) in GitHub allow developers to propose changes from a branch 
 	- Create a PR : From the branch with changes, initiate a pull request on GitHub.
 	- Review and discuss : Team members review the code, suggest improvements, and approve or request changes.
 	- Merge : Once approved, merge the PR into the main branch.
-- PRs ensure quality control, encourage collaboration, and maintain a clean, stable codebase.
+   
+PRs ensure quality control, encourage collaboration, and maintain a clean, stable codebase.
 
 
  ##### 8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
@@ -96,7 +99,8 @@ Issues and project boards on GitHub are essential for tracking bugs, managing ta
 	- Example : A developer files an issue for a bug, discusses it with the team, and marks it as resolved once fixed.
 - Project boards : Visualize tasks using Kanban-style boards (To Do, In Progress, Done). They help prioritize work and monitor the project's status.
 	- Example : A team uses a project board to organize sprint tasks, moving cards across columns as tasks progress.
-- These tools enhance collaboration by providing clarity, accountability, and transparency in task management.
+   
+These tools enhance collaboration by providing clarity, accountability, and transparency in task management.
 
 
  ##### 10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
