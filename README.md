@@ -52,9 +52,9 @@ It contributes to effective collaboration by providing clarity, reducing onboard
 
 Commits are snapshots of changes made to a repository, allowing you to track and manage different versions of your project over time.
 - Steps to make your first commit:
-	1 Stage changes : Use git add <file> to stage specific files or git add . for all changes.
-	2 Commit changes : Use git commit -m "commit message" to save the changes with a descriptive message.
-	3 Push to GitHub : Use git push origin <branch> to upload the commit to the remote repository.
+	1. Stage changes : Use git add <file> to stage specific files or git add . for all changes.
+	2. Commit changes : Use git commit -m "commit message" to save the changes with a descriptive message.
+	3. Push to GitHub : Use git push origin <branch> to upload the commit to the remote repository.
 - Commits help by providing a history of changes, enabling rollback to previous versions, and facilitating collaboration by clearly documenting updates.
 
 
