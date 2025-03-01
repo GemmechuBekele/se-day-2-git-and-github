@@ -13,11 +13,11 @@ integrity by maintaining a complete history of changes, enabling accountability,
   2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 
   To set up a new repository on GitHub:
- - Sign in to GitHub and click the "+" icon, then select "New repository."Name the repository (choose a clear, descriptive name).
-- Set visibility : Decide if the repo is public (visible to everyone) or private (restricted access).
-- Initialize options : Choose whether to add a README file, select a license, or include a .gitignore file for ignoring specific files.
-- Create the repository by clicking "Create repository."
-- Key decisions include naming, visibility, and initialization options, which impact accessibility and project structure.
+ 1 Sign in to GitHub and click the "+" icon, then select "New repository."Name the repository (choose a clear, descriptive name).
+ 2 Set visibility : Decide if the repo is public (visible to everyone) or private (restricted access).
+ 3 Initialize options : Choose whether to add a README file, select a license, or include a .gitignore file for ignoring specific files.
+ 4 Create the repository by clicking "Create repository."
+ 5 Key decisions include naming, visibility, and initialization options, which impact accessibility and project structure.
 
 
 3) Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
